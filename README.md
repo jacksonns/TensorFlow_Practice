@@ -5,7 +5,7 @@ The purpose of this course is to learn foundations of deep learning and TensorFl
 ## Solved exercises
 - [X] TensorFlow Fundamentals
 - [X] TensorFlow Regression
-- [ ] TensorFlow Classification
+- [X] TensorFlow Classification
 - [ ] TensorFlow Computer Vision
 - [ ] Transfer Learning Part 1: Feature extraction
 - [ ] Transfer Learning Part 2: Fine-tuning
